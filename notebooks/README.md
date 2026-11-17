@@ -1,0 +1,1 @@
+Use esta pasta para notebooks de exploração e experimentos. O MVP inicial funciona sem notebook.

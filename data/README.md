@@ -1,0 +1,1 @@
+Coloque aqui arquivos de dados locais e anonimizados. Arquivos CSV/XLSX são ignorados pelo Git por padrão para evitar publicar dados de clientes.
